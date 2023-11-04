@@ -89,7 +89,6 @@ export const ServerSearch = ({
                         </CommandGroup>
                     )
                 })}
-            
            </CommandList>
         </CommandDialog>
        </> 
