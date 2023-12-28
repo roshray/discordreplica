@@ -52,19 +52,5 @@ export const useChatQuery = ({
         hasNextPage,
         isFetchingNextPage,
         status,
-    }
-
-
-
-
-
-
-
-
-
-
-
-
-   
-    
+    } 
 }
